@@ -1,7 +1,3 @@
-Username = ""
-Username2 = ""
-MinimumRAP = 100000
-Webhook = ""
 
 DualRAP = 2500000000
 DualUser = "quotrey"
